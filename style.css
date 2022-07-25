@@ -1,0 +1,39 @@
+body {
+    background: url("bg.jpeg");
+    text-align: center;
+    align-items: center;
+    color: white;
+}
+
+#interfaceMain{
+    background: url("bg.jpeg");
+    font-size: 10px;
+    position: absolute;
+    width: 100%;
+    top: 250px;
+    font-family: monospace;
+    color: white;
+}
+
+#rand{
+    top: 340px;
+    font-size: 25px;
+    color: honeydew;
+    background-color: black;
+    font-family: monospace;
+    text-shadow: 
+        0 0 4px,
+        0 0 8px,
+        0 0 16px;
+}
+
+#color{
+    text-shadow: 
+        0 0 8px,
+        0 0 16px,
+        0 0 32px;
+}
+
+#chooseColor{
+    color: white
+}
